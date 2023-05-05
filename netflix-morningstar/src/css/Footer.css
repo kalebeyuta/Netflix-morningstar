@@ -1,0 +1,18 @@
+.footer {
+  background-color: #222;
+  color: #fff;
+  padding: 1rem;
+  text-align: center;
+  font-size: 0.8rem;
+  margin-top: 2rem;
+}
+
+.footer__logo {
+  width: 100px;
+  object-fit: contain;
+  margin-bottom: 1rem;
+}
+
+.footer__text {
+  margin-top: 1rem;
+}
